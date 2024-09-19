@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://limonspo.github.io/sitemap.html.gz
+Sitemap: https://limonspo.github.io/app/sitemap.html.gz
+Sitemap: https://limonspo.github.io/assets/sitemap.html.gz
+Sitemap: https://limonspo.github.io/css/sitemap.html.gz
+Sitemap: https://limonspo.github.io/data/sitemap.html.gz
+Sitemap: https://limonspo.github.io/includes/sitemap.html.gz
+Sitemap: https://limonspo.github.io/item/sitemap.html.gz
+Sitemap: https://limonspo.github.io/src/sitemap.html.gz
